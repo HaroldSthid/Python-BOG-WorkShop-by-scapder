@@ -84,8 +84,9 @@ Este proyecto está disponible bajo la [Licencia MIT](LICENSE).
 
 ---
 
-## 🔗 Enlace de la Carpeta Compartida
-Accede a los resultados generados aquí: [FormResponses_Workshop.xlsx](https://docs.google.com/spreadsheets/d/1TgDjEQDSQCQg4V5TmO93_PkJb9gGmgdY/edit?usp=sharing).
+## 🔗 Enlaces Importantes
+- 📄 [Formulario de Evaluación de Perfiles y Melodías](https://forms.gle/yQxoXtWPyXEt961u8)
+- 📂 [Resultados Generados en Excel](https://docs.google.com/spreadsheets/d/1TgDjEQDSQCQg4V5TmO93_PkJb9gGmgdY/edit?usp=sharing)
 
 ---
 
